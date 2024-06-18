@@ -2,9 +2,6 @@
 A robust frontend interface for the NFT marketplace that emphasizes real estate and house businesses. Built leveraging React's component-based architecture, integrated with Web3 and the Ethereum blockchain.
 ![Screenshot_62](https://github.com/garrycolman/NFT.marketplace.react.frontend./assets/135847597/613d029d-8f43-4c6e-9766-488d5b29b07d)
 
-
-# Here is Contract: https://github.com/stuartgregorysharpe/NFT.MarketPlace-HouseBusiness
-
 # Table of Contents
 
 Technologies Used
